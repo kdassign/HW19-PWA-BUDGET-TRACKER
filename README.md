@@ -4,7 +4,7 @@
 Budget Tracker application that's still functional offline.
 
 ## Demonstration
-![](https://i.imgur.com/l8NE4cw.gif)
+![](https://i.imgur.com/NjdFTNo.gif)
 
 ## How to Use
 In your terminal you will...
