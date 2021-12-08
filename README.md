@@ -3,7 +3,8 @@
 ## Description
 Budget Tracker application that's still functional offline.
 
-## Screenshots
+## Demonstration
+![](https://i.imgur.com/l8NE4cw.gif)
 
 ## How to Use
 In your terminal you will...
@@ -17,6 +18,10 @@ In your terminal you will...
 - Express
 - Morgan
 - Compression
+
+## Known Issues
+
+Items added offline once back online shows the input multiple times instead of once. 
 
 ## Deployed Application
 
