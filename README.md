@@ -1,28 +1,30 @@
 # Unit 19 PWA Homework: Online/Offline Budget Trackers
 
 ## Description
+Budget Tracker application that's still functional offline.
 
-A front-end workout tracker created with MONGO DB.
+## Screenshots
 
 ## How to Use
 In your terminal you will...
+- Install dependencies (npm i)
 - Run the seed (npm run seed)
 - Start local (npm start)
 
 ## Technologies
-- DotEnv
+- Lite-Server
 - Mongoose
 - Express
 - Morgan
-- Path
+- Compression
 
 ## Deployed Application
 
-[Heroku App](https://pacific-sierra-33934.herokuapp.com/)
+[Heroku App](https://radiant-temple-67815.herokuapp.com/)
 
 ## Repository
 
-[GitHub Repo](https://github.com/kdassign/HW18-Workout-Tracker)
+[GitHub Repo](https://github.com/kdassign/HW19-PWA-BUDGET-TRACKER)
 
 ## Link to personal GitHub
 [MyGitHub](https://github.com/kdassign)
